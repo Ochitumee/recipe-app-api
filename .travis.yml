@@ -1,6 +1,10 @@
 language: python
 python:
+<<<<<<< HEAD
   - "3.6"
+=======
+  - "3.7"
+>>>>>>> fec2f9f6c235232c568fdcc36c4c4b2e6136377e
 
 services:
   - docker
